@@ -1,7 +1,7 @@
 # EquipViewer
 EquipViewer is a plugin for Ashita4 that allows you to overlay your equipment menu anywhere on your screen allowing you to see what is equipped at any given time. 
 
-###Commands
+### Commands
 All commands should be prefixed with /equipviewer or /ev
 
 **/ev pos[ition] x y**<br>
